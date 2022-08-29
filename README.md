@@ -11,11 +11,11 @@ The next step is to clone this repository. Use git to run this command:
 ***
 The repository for this workshop contains a file called `environment.yml` that includes a list of all the packages used for the tutorial. If you run:
 
-    conda env create -f environment.yml
+    conda env create -f env.yml
     
 from the main workshop directory, it will create the environment for you and install all of the needed packages. This environment can be enabled using:
 
-    conda activate dss21
+    conda activate bss22
     
 Then, you can start **JupyterLab** to access the materials:
 
