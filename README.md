@@ -15,7 +15,7 @@ The repository for this workshop contains a file called `environment.yml` that i
     
 from the main workshop directory, it will create the environment for you and install all of the needed packages. This environment can be enabled using:
 
-    conda activate dss21
+    conda activate bss22
     
 Then, you can start **JupyterLab** to access the materials:
 
